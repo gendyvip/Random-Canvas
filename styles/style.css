@@ -1,0 +1,16 @@
+#click {
+  margin: 15px auto;
+  display: block;
+  padding: 7px 30px;
+}
+
+canvas {
+  display: block;
+  margin: 15px auto;
+  border-radius: 7px;
+}
+
+#colors {
+  display: block;
+  margin: 15px auto;
+}
